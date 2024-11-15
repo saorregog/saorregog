@@ -2,7 +2,7 @@
 
 ## About me
 
-Hello! I'm a passionate Full Stack Developer with a keen focus on Java and React. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
+Hello! I'm a passionate Full Stack Developer with a keen focus on Node.js, Python and React. My journey in the tech world began with a fascination for delivering solutions to the people that required them.
 
 ## Contact me
 
@@ -10,16 +10,8 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 ## Technologies
 
-- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
-- Front-End: My expertise in React allows me to create interactive and user-friendly interfaces...
-
-## Skills
-
-- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
-
-## Hobbies
-
-- Dancing: ...
+- Back-End: Node.js (Express) and Django Rest Framework (Python). Currently, I am learning Java and Spring Boot.
+- Front-End: React ecosystem and component libraries like Material UI and shadcn, using vanilla CSS or Tailwind CSS for styling.
 
 ## Languages
 
